@@ -10,12 +10,12 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: JRowing
+    url:  http://jrowing.com/
     company:
-        name: Famous Inc.
+        name: IoP SPN.
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
+fork_url: https://JRowing.com/woah
 progress: true
 line_numbers: true
