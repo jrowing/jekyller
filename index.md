@@ -57,21 +57,22 @@ style: |
 
 https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
 
+## What Now?
 [https://youtu.be/5ZnKIPfIhAQ](https://youtu.be/5ZnKIPfIhAQ)
 
-
-
 ## Tippy-Tops
-
 [Research paper](http://www2.ph.ed.ac.uk/~amorozov/files/TEACHING/tippetop.pdf)
 
+## Tops
 {:.cover #Picture}
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Pauli_wolfgang_c4.jpg)
 
+## Tops
 {:.cover #Picture}
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1497297103137_image.png)
 
-+++
+##Tops
+{:.cover #Picture}
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1497297127472_image.png)
 
 ---
