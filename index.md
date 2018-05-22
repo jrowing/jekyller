@@ -30,6 +30,7 @@ style: |
         width:0.72em;
         height:0.72em;
         }
+---
 
 # Shower Presentation Engine {#Cover}
 
