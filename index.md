@@ -40,40 +40,34 @@ style: |
 
 
 ## Woah!
+{:.cover #Picture}
 ![](https://filedb.experts-exchange.com/incoming/2015/11_w46/1008861/macbook-air-balloon.jpg)
 
-
 ## Stability
-
-+++
+{:.cover #Picture}
 ![](https://image.slidesharecdn.com/centreofgravityandstabilitystuver-100518122326-phpapp02/95/centre-of-gravity-and-stability-21-728.jpg?cb=1274185916)
 
-+++
+{:.cover #Picture}
 ![](http://i.imgur.com/y7EOXme.jpg)
 
 
----
 
 ## What Happens Next:
 
-+++
 https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
-
 
 [https://youtu.be/5ZnKIPfIhAQ](https://youtu.be/5ZnKIPfIhAQ)
 
----
+
 
 ## Tippy-Tops
 
-+++
 [Research paper](http://www2.ph.ed.ac.uk/~amorozov/files/TEACHING/tippetop.pdf)
 
-+++
+{:.cover #Picture}
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Pauli_wolfgang_c4.jpg)
 
-+++
-
+{:.cover #Picture}
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1497297103137_image.png)
 
 +++
@@ -168,14 +162,6 @@ https://www.youtube.com/watch?v=2di7l-6OKNE&
 +++
 
 ![](https://skullsinthestars.files.wordpress.com/2012/08/vortexring.jpg)
-
-
-
-
-
-
-
-
 
 
 ## Shower Key Features
